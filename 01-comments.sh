@@ -1,4 +1,3 @@
 ls
 pwd
-ls
-cd
+echo 'hello world'
