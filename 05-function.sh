@@ -1,3 +1,5 @@
 sample(){
   echo "#-$#"
+  return
+  echo "$*"
 }
