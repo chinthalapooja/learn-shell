@@ -1,2 +1,3 @@
-a=10
-name=john
+b=10
+name="john A"
+echo world
