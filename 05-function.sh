@@ -1,7 +1,7 @@
 sample(){
   echo "no of args - $#"
-  return
-  echo "inputs - $*"
+ # return
+ # echo "inputs - $*"
 }
 
 sample
