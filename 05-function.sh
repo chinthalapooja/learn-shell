@@ -3,3 +3,5 @@ sample(){
   return
   echo "inputs - $*"
 }
+
+echo sample
