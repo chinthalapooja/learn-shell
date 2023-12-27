@@ -4,4 +4,4 @@ sample(){
   echo "inputs - $*"
 }
 
-echo sample
+sample
