@@ -1,5 +1,5 @@
 sample(){
-  echo "#-$#"
+  echo "no of args - $#"
   return
-  echo "*-$*"
+  echo "inputs - $*"
 }
