@@ -5,4 +5,5 @@ sample(){
  echo "inputs - $*"
 }
 
+echo $name
 sample
