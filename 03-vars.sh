@@ -1,3 +1,4 @@
-b=10
+ b=10
 name="john A"
-echo world
+echo $name
+echo $a
